@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin-left: 200px;
+}
+
+h1{
+    color: #622876;
+}
+
+input{
+    background-color: rgba(98, 40, 118, 0.54);
+    border-radius: 10px;
+    border: none;
+    width: 25%; 
+    margin: 15px;
+    padding: 8px;
+}
