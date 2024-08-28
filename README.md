@@ -1,3 +1,6 @@
+
+<img width="451" alt="Screenshot 2024-08-28 at 17 21 29" src="https://github.com/user-attachments/assets/1e7d8af4-2f36-4b6d-889d-d99d17b5b1d2">
+
 # React Password Validator
 
 This is a simple React application that checks the strength of a user's password based on several criteria using the `validator` library. The application provides real-time feedback on whether the entered password is strong or not.
